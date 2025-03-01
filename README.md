@@ -1,1 +1,1 @@
-![Community Board GIF](communityboard/communityboard/communityboard-2.gif)
+![Community Board GIF](./communityboard-2.gif)
